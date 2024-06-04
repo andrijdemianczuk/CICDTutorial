@@ -1,11 +1,12 @@
 install:
-    #install commands
+	pip install --upgrade pip && \
+	pip install -r requirements.txt
 lint:
-    #flake8 or pylint
+	pylint --disable=R,C hello.py
 format:
-    #format the code
+	black *.py
 test:
-    #test
+	python -m pytest -vv test_hello.py
 deploy:
-    #deploy
+	#deploy
 all: install lint test deploy

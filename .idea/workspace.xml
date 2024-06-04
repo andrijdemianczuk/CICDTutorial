@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b341d108-bc1b-48f6-b257-55ea6a57d47c" name="Changes" comment="added bootstrap scaffold">
-      <change beforePath="$PROJECT_DIR$/tst/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tst/__init__.py" afterDir="false" />
+    <list default="true" id="b341d108-bc1b-48f6-b257-55ea6a57d47c" name="Changes" comment="added Makefile">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,21 +34,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Makefile Target.all.executor": "Run",
+    "Makefile Target.install.executor": "Run",
+    "Makefile Target.lint.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Makefile Target.all">
+}]]></component>
+  <component name="RunManager" selected="Makefile Target.install">
     <configuration name="all" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
       <makefile filename="$PROJECT_DIR$/Makefile" target="all" workingDirectory="" arguments="">
         <envs />
@@ -91,9 +95,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Makefile Target.install" />
         <item itemvalue="Makefile Target.all" />
         <item itemvalue="Makefile Target.lint" />
-        <item itemvalue="Makefile Target.install" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -115,7 +119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1717389065814</updated>
       <workItem from="1717389067918" duration="54000" />
-      <workItem from="1717389125578" duration="1580000" />
+      <workItem from="1717389125578" duration="4352000" />
     </task>
     <task id="LOCAL-00001" summary="added bootstrap scaffold">
       <option name="closed" value="true" />
@@ -125,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717391132294</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added Makefile">
+      <option name="closed" value="true" />
+      <created>1717391604343</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717391604343</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +157,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="added bootstrap scaffold" />
-    <option name="LAST_COMMIT_MESSAGE" value="added bootstrap scaffold" />
+    <MESSAGE value="added Makefile" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Makefile" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CICDTutorial$main.coverage" NAME="main Coverage Results" MODIFIED="1717389286156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
