@@ -4,7 +4,7 @@ install:
 lint:
 	pylint --disable=R,C hello.py
 format:
-	black *.py
+	black *.py src/*.py lib/*.py tst/*.py
 test:
 	python -m pytest -vv test_hello.py
 deploy:
