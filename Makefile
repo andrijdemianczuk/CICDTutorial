@@ -9,4 +9,6 @@ test:
 	python -m pytest -vv test_hello.py
 deploy:
 	#deploy
+build:
+	#build container
 all: install lint test deploy
