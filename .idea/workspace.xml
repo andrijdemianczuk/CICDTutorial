@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b341d108-bc1b-48f6-b257-55ea6a57d47c" name="Changes" comment="updated makefile and requirements.txt" />
+    <list default="true" id="b341d108-bc1b-48f6-b257-55ea6a57d47c" name="Changes" comment="updated makefile and requirements.txt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +21,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -116,7 +119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1717389065814</updated>
       <workItem from="1717389067918" duration="54000" />
-      <workItem from="1717389125578" duration="5218000" />
+      <workItem from="1717389125578" duration="5903000" />
     </task>
     <task id="LOCAL-00001" summary="added bootstrap scaffold">
       <option name="closed" value="true" />
@@ -142,7 +145,31 @@
       <option name="project" value="LOCAL" />
       <updated>1717470286516</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updated makefile and requirements.txt">
+      <option name="closed" value="true" />
+      <created>1717471068109</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717471068109</updated>
+    </task>
+    <task id="LOCAL-00005" summary="updated makefile and requirements.txt">
+      <option name="closed" value="true" />
+      <created>1717471135897</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717471135897</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updated makefile and requirements.txt">
+      <option name="closed" value="true" />
+      <created>1717471221666</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717471221666</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
