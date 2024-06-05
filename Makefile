@@ -2,7 +2,7 @@ install:
 	pip install --upgrade pip && \
 	pip install -r requirements.txt
 lint:
-	pylint --disable=R,C hello.py
+	pylint --disable=R,C *.py src/*.py lib/*.py tst/*.py
 format:
 	black *.py src/*.py lib/*.py tst/*.py
 test:
