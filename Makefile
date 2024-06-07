@@ -11,4 +11,4 @@ deploy:
 	#deploy
 build:
 	#build container
-all: install lint test deploy
+all: install lint format test deploy
