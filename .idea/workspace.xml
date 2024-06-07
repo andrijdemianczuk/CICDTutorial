@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b341d108-bc1b-48f6-b257-55ea6a57d47c" name="Changes" comment="Adding test directive to Makefile">
+      <change afterPath="$PROJECT_DIR$/cli-fire.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +36,9 @@
     &quot;accountId&quot;: &quot;ab43d0e3-2260-49a9-8238-5a10038f9eab&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/cli-fire.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -153,7 +156,7 @@
       <workItem from="1717389125578" duration="5903000" />
       <workItem from="1717548696917" duration="3743000" />
       <workItem from="1717698246548" duration="29000" />
-      <workItem from="1717780461840" duration="663000" />
+      <workItem from="1717780461840" duration="1126000" />
     </task>
     <task id="LOCAL-00001" summary="added bootstrap scaffold">
       <option name="closed" value="true" />
@@ -259,7 +262,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717556226313</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Adding test directive to Makefile">
+      <option name="closed" value="true" />
+      <created>1717781951982</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1717781951982</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
