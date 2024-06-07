@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b341d108-bc1b-48f6-b257-55ea6a57d47c" name="Changes" comment="Adding test directive to Makefile">
-      <change afterPath="$PROJECT_DIR$/cli-fire.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cli-fire.py" beforeDir="false" afterPath="$PROJECT_DIR$/cli-fire.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WikiReader.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/WikiReader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tst/tst_WikiReader.py" beforeDir="false" afterPath="$PROJECT_DIR$/tst/tst_WikiReader.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +159,7 @@
       <workItem from="1717389125578" duration="5903000" />
       <workItem from="1717548696917" duration="3743000" />
       <workItem from="1717698246548" duration="29000" />
-      <workItem from="1717780461840" duration="1126000" />
+      <workItem from="1717780461840" duration="2561000" />
     </task>
     <task id="LOCAL-00001" summary="added bootstrap scaffold">
       <option name="closed" value="true" />
@@ -270,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717781951982</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Adding test directive to Makefile">
+      <option name="closed" value="true" />
+      <created>1717782623311</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1717782623311</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

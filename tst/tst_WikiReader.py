@@ -1,6 +1,6 @@
-from src.WikiReader import search_wikipedia
+from src.WikiReader import summarize_wikipedia
 
 
 def test_search_wikipedia():
-    result = search_wikipedia(query="Goldendoodle", length=10)
+    result = summarize_wikipedia(query="Goldendoodle", length=10)
     assert "goldendoodle" in result
