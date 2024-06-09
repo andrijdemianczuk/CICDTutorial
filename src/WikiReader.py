@@ -19,3 +19,12 @@ def search_wikipedia(query):
         return e.options
     except wikipedia.exceptions.PageError:
         return "No results found."
+
+
+def wiki_phrases(query="true"):
+    try:
+        return query
+    except wikipedia.exceptions.DisambiguationError as e:
+        return e.options
+    except wikipedia.exceptions.PageError:
+        return "No results found."
