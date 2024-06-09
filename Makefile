@@ -6,7 +6,7 @@ lint:
 format:
 	black *.py src/*.py lib/*.py tst/*.py
 test:
-	python -m pytest -vv --cov=src tst/*.py
+	python -m pytest -vv --cov=src --cov=main tst/*.py
 deploy:
 	#deploy
 build:

@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b341d108-bc1b-48f6-b257-55ea6a57d47c" name="Changes" comment="Created first FastAPI Endpoints">
+    <list default="true" id="b341d108-bc1b-48f6-b257-55ea6a57d47c" name="Changes" comment="Created phrase search endpoint">
+      <change afterPath="$PROJECT_DIR$/tst/tst_Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.coverage" beforeDir="false" afterPath="$PROJECT_DIR$/.coverage" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WikiReader.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/WikiReader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +159,7 @@
       <workItem from="1717548696917" duration="3743000" />
       <workItem from="1717698246548" duration="29000" />
       <workItem from="1717780461840" duration="3966000" />
-      <workItem from="1717905064658" duration="2537000" />
+      <workItem from="1717905064658" duration="3877000" />
     </task>
     <task id="LOCAL-00001" summary="added bootstrap scaffold">
       <option name="closed" value="true" />
@@ -312,7 +313,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717906178350</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Created phrase search endpoint">
+      <option name="closed" value="true" />
+      <created>1717908076975</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1717908076975</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,7 +350,8 @@
     <MESSAGE value="added cli via fire" />
     <MESSAGE value="added requirements for fastapi" />
     <MESSAGE value="Created first FastAPI Endpoints" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created first FastAPI Endpoints" />
+    <MESSAGE value="Created phrase search endpoint" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created phrase search endpoint" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CICDTutorial$main.coverage" NAME="main Coverage Results" MODIFIED="1717907346531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
