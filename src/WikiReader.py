@@ -1,4 +1,5 @@
 import wikipedia
+from textblob import TextBlob
 
 
 def summarize_wikipedia(query="War Goddess", length=1):
@@ -23,7 +24,9 @@ def search_wikipedia(query):
 
 def wiki_phrases(query="true"):
     try:
-        return query
+        result = summarize_wikipedia(query)
+        blob = TextBlob(result)
+        return blob.noun_phrases
     except wikipedia.exceptions.DisambiguationError as e:
         return e.options
     except wikipedia.exceptions.PageError:

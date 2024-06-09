@@ -10,5 +10,5 @@ test:
 deploy:
 	#deploy
 build:
-	#build container
+	python -m textblob.download_corpora
 all: install lint format test deploy

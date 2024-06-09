@@ -1,12 +1,6 @@
-# from src.WikiReader import summarize_wikipedia
-
-# if __name__ == "__main__":
-#     print("Hello, World!")
-#     print(summarize_wikipedia("Goldendoodle", length=10))
-
-
 from fastapi import FastAPI
 import uvicorn
+
 from src.WikiReader import summarize_wikipedia
 from src.WikiReader import search_wikipedia
 from src.WikiReader import wiki_phrases
