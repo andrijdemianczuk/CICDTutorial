@@ -31,4 +31,5 @@ jobs:
     steps:
       - name: Deploy Container
         run: |
-          #make deploy
+          Docker login -u ademianczuk -p ${{ secrets.DOCKER_PAT }}
+          make deploy
