@@ -27,5 +27,5 @@ jobs:
         make build
     - name: Deploy container
       run: |
-#      docker login -u ademianczuk -p ${{ secrets.DOCKER_PAT }}
-#      docker push ademianczuk/cicdtutorial:latest
+        docker login -u ademianczuk -p ${{ secrets.DOCKER_PAT }}
+        docker push ademianczuk/cicdtutorial:latest
