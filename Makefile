@@ -14,4 +14,4 @@ run:
 	docker run -p 127.0.0.1:8080:8080 6803f9b1b946
 build:
 	docker build -t deploy-fastapi .
-all: install lint format test deploy
+all: install lint format test deploy run build

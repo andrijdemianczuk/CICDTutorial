@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b341d108-bc1b-48f6-b257-55ea6a57d47c" name="Changes" comment="Added some testing">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-    </list>
+    <list default="true" id="b341d108-bc1b-48f6-b257-55ea6a57d47c" name="Changes" comment="Added some build directive" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,7 +155,7 @@
       <workItem from="1717698246548" duration="29000" />
       <workItem from="1717780461840" duration="3966000" />
       <workItem from="1717905064658" duration="4210000" />
-      <workItem from="1717977387913" duration="1312000" />
+      <workItem from="1717977387913" duration="1634000" />
     </task>
     <task id="LOCAL-00001" summary="added bootstrap scaffold">
       <option name="closed" value="true" />
@@ -329,7 +325,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717909092987</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Added some build directive">
+      <option name="closed" value="true" />
+      <created>1717978935307</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1717978935307</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,7 +364,8 @@
     <MESSAGE value="Created first FastAPI Endpoints" />
     <MESSAGE value="Created phrase search endpoint" />
     <MESSAGE value="Added some testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added some testing" />
+    <MESSAGE value="Added some build directive" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some build directive" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CICDTutorial$main.coverage" NAME="main Coverage Results" MODIFIED="1717908955542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
