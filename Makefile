@@ -9,7 +9,7 @@ format:
 test:
 	python -m pytest -vv --cov=src --cov=main tst/*.py
 deploy:
-	docker login -u ademianczuk -p dckr_pat_3SMnKaCc2BifBkKAdJreZpAKceQ
+	docker login -u ademianczuk -p ${{ secrets.DOCKER_PAT }}
 	docker push ademianczuk/cicdtutorial:latest
 run:
 	docker run -p 127.0.0.1:8080:8080 6803f9b1b946
