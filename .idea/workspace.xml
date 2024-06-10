@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b341d108-bc1b-48f6-b257-55ea6a57d47c" name="Changes" comment="Added push to docker hub - Updated deploy.yml">
       <change beforePath="$PROJECT_DIR$/.github/workflows/devops.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/devops.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +159,7 @@
       <workItem from="1717780461840" duration="3966000" />
       <workItem from="1717905064658" duration="4210000" />
       <workItem from="1717977387913" duration="2377000" />
-      <workItem from="1718037460038" duration="2512000" />
+      <workItem from="1718037460038" duration="3010000" />
     </task>
     <task id="LOCAL-00001" summary="added bootstrap scaffold">
       <option name="closed" value="true" />
@@ -376,7 +377,31 @@
       <option name="project" value="LOCAL" />
       <updated>1718039358322</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Added push to docker hub - Updated deploy.yml">
+      <option name="closed" value="true" />
+      <created>1718041931458</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1718041931458</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Added push to docker hub - Updated deploy.yml">
+      <option name="closed" value="true" />
+      <created>1718042123517</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1718042123517</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Added push to docker hub - Updated deploy.yml">
+      <option name="closed" value="true" />
+      <created>1718042229775</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1718042229775</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

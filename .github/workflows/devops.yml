@@ -32,4 +32,4 @@ jobs:
       - name: Deploy Container
         run: |
           docker login -u ademianczuk -p ${{ secrets.DOCKER_PAT }}
-          make deploy
+          docker push ademianczuk/cicdtutorial:latest
