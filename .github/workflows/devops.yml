@@ -26,6 +26,7 @@ jobs:
       run: |
         make build
   deploy:
+    needs: build
     runs-on: ubuntu-latest
     steps:
       - name: Deploy Container
