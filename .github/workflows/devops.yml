@@ -25,11 +25,7 @@ jobs:
     - name: Build Container
       run: |
         make build
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy Container
-        run: |
-          docker login -u ademianczuk -p ${{ secrets.DOCKER_PAT }}
-          #docker push ademianczuk/cicdtutorial:latest
+    - name: Deploy container
+      run: |
+#      docker login -u ademianczuk -p ${{ secrets.DOCKER_PAT }}
+#      docker push ademianczuk/cicdtutorial:latest
