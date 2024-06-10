@@ -14,4 +14,6 @@ def test_read_main():
 def test_read_phrase():
     response = client.get("/phrase/goldendoodle")
     assert response.status_code == 200
-    assert response.json() == {"result":["goldendoodle","designer dog","retriever","poodle"]}
+    assert response.json() == {
+        "result": ["goldendoodle", "designer dog", "retriever", "poodle"]
+    }

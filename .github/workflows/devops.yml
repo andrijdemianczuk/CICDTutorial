@@ -25,6 +25,9 @@ jobs:
     - name: Build Container
       run: |
         make build
-    - name: Deploy Container
-      run: |
-        make deploy
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy Container
+        run: |
+          #make deploy
