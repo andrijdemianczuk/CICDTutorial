@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b341d108-bc1b-48f6-b257-55ea6a57d47c" name="Changes" comment="Added push to docker hub - Updated deploy.yml">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/devops.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/devops.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +59,7 @@
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/andrijdemianczuk/PycharmProjects/CICDTutorial&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -160,7 +159,9 @@
       <workItem from="1717780461840" duration="3966000" />
       <workItem from="1717905064658" duration="4210000" />
       <workItem from="1717977387913" duration="2377000" />
-      <workItem from="1718037460038" duration="4528000" />
+      <workItem from="1718037460038" duration="5773000" />
+      <workItem from="1718049228493" duration="191000" />
+      <workItem from="1718049516293" duration="630000" />
     </task>
     <task id="LOCAL-00001" summary="added bootstrap scaffold">
       <option name="closed" value="true" />
@@ -426,7 +427,47 @@
       <option name="project" value="LOCAL" />
       <updated>1718042769769</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Added push to docker hub - Updated deploy.yml">
+      <option name="closed" value="true" />
+      <created>1718043971865</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1718043971865</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Added push to docker hub - Updated deploy.yml">
+      <option name="closed" value="true" />
+      <created>1718043998369</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1718043998369</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Added push to docker hub - Updated deploy.yml">
+      <option name="closed" value="true" />
+      <created>1718044043131</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1718044043131</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Added push to docker hub - Updated deploy.yml">
+      <option name="closed" value="true" />
+      <created>1718044219086</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1718044219086</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Added push to docker hub - Updated deploy.yml">
+      <option name="closed" value="true" />
+      <created>1718044790212</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1718044790212</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
